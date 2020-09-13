@@ -1,5 +1,5 @@
 # Privat-Browser
-Block Privat Browsing with Wordpress
+Block Privat Browsing - Plugin Wordpress
 
 This Plugin Works with Wordpress 5.5.1
 
